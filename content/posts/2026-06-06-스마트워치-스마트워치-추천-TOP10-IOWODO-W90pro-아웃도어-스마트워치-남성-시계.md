@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f13b/50bb92d51a037c0996df5779219feb729afb4ccb3c17bef71045b0536afd.jpg"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 이 글에서는 **스마트워치** 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다.
 
 > 스마트폰을 매번 확인하기 번거로운 요즘, 스마트워치는 일상의 편리함을 더해주는 필수 아이템이 되었습니다. 스마트워치를 고를 때는 사용 목적에 맞는 운동 및 건강 측정 기능, 일상에 어울리는 디자인과 스크린 크기, 그리고 배터리 수명을 꼼꼼히 확인하는 것이 좋습니다. 본인의 라이프스타일에 딱 맞는 제품을 선택해보시기 바랍니다.
@@ -29,7 +29,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — IOWODO W90pro 아웃도어 스마트워치 남성 시계 1.43
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9422778788&traceid=V0-153&itemId=28007367515&vendorItemId=94964776051" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f13b/50bb92d51a037c0996df5779219feb729afb4ccb3c17bef71045b0536afd.jpg" alt="1위 - IOWODO W90pro 아웃도어 스마트워치 남성 시계 1.43인치 스틸밴드 GPS 운동경로 나침반 기상 메" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9422778788&traceid=V0-153&itemId=28007367515&vendorItemId=94964776051" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f13b/50bb92d51a037c0996df5779219feb729afb4ccb3c17bef71045b0536afd.jpg" alt="1위 - IOWODO W90pro 아웃도어 스마트워치 남성 시계 1.43인치 스틸밴드 GPS 운동경로 나침반 기상 메" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**IOWODO W90pro 아웃도어 스마트워치 남성 시계 1.43인치 스틸밴드 GPS 운동경로 나침반 기상 메시지 알림 혈중산소 심박수 수면 스트레스 측정 건강 모니터링, GPS + 블루투스, 4.8cm, 검정색**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9422778788&traceid=V0-153&itemId=28007367515&vendorItemId=94964776051)
 
@@ -40,7 +40,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 튼튼한 스틸 소재와 1.43인치 대화면으로 아웃도어 활동에 적합한 제품입니다. 세련된 남성적 디자인과 뛰어난 내구성을 갖추어 야외 활동이 많은 분께 추천해 드립니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9422778788&traceid=V0-153&itemId=28007367515&vendorItemId=94964776051" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9422778788&traceid=V0-153&itemId=28007367515&vendorItemId=94964776051" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -48,7 +48,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — DAICOO 블루투스 스마트밴드 1.47인치 GPS 운동 워치
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9568810278&traceid=V0-153&itemId=28559080446&vendorItemId=95503704979" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/65a1/f22d850a12ffe8adb41ac380dcfa7e9fc941256cf5253be957652bd8ea90.jpg" alt="2위 - DAICOO 블루투스 스마트밴드 1.47인치 GPS 운동 워치 한글판, GPS + 블루투스, 3.75cm, " style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9568810278&traceid=V0-153&itemId=28559080446&vendorItemId=95503704979" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/65a1/f22d850a12ffe8adb41ac380dcfa7e9fc941256cf5253be957652bd8ea90.jpg" alt="2위 - DAICOO 블루투스 스마트밴드 1.47인치 GPS 운동 워치 한글판, GPS + 블루투스, 3.75cm, " style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**DAICOO 블루투스 스마트밴드 1.47인치 GPS 운동 워치 한글판, GPS + 블루투스, 3.75cm, 블랙**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9568810278&traceid=V0-153&itemId=28559080446&vendorItemId=95503704979)
 
@@ -59,7 +59,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: GPS 기능을 탑재하고도 3만 원대라는 놀라운 가성비를 자랑하는 스마트밴드입니다. 가벼운 운동 측정과 한글 지원으로 입문용 운동 워치를 찾는 분께 안성맞춤입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9568810278&traceid=V0-153&itemId=28559080446&vendorItemId=95503704979" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9568810278&traceid=V0-153&itemId=28559080446&vendorItemId=95503704979" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -67,7 +67,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — 삼성전자 갤럭시 핏3 SM-R390N, 그레이, 4cm, 블루투
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8365215718&traceid=V0-153&itemId=24635275660&vendorItemId=91186820423" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/0f7d/1e3eacf26bed39f00543004e680c0df8417ed269280f9e521cae43658772.jpg" alt="3위 - 삼성전자 갤럭시 핏3 SM-R390N, 그레이, 4cm, 블루투스" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8365215718&traceid=V0-153&itemId=24635275660&vendorItemId=91186820423" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/0f7d/1e3eacf26bed39f00543004e680c0df8417ed269280f9e521cae43658772.jpg" alt="3위 - 삼성전자 갤럭시 핏3 SM-R390N, 그레이, 4cm, 블루투스" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**삼성전자 갤럭시 핏3 SM-R390N, 그레이, 4cm, 블루투스**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8365215718&traceid=V0-153&itemId=24635275660&vendorItemId=91186820423)
 
@@ -78,7 +78,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 삼성전자의 신뢰도 높은 품질과 대기업 AS를 누릴 수 있는 제품입니다. 만 개가 넘는 압도적인 리뷰가 증명하듯 가볍고 안정적인 갤럭시 생태계 연동을 원하는 분께 추천합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8365215718&traceid=V0-153&itemId=24635275660&vendorItemId=91186820423" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8365215718&traceid=V0-153&itemId=24635275660&vendorItemId=91186820423" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -89,7 +89,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864405&vendorItemId=95289151827" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c570/c96e2f0b8e87aee5fe11535a4ebdd0f499fadacf9ec973038304141cb177.jpg" alt="4위 - OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864405&vendorItemId=95289151827" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c570/c96e2f0b8e87aee5fe11535a4ebdd0f499fadacf9ec973038304141cb177.jpg" alt="4위 - OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/앱 알림 손전등, 50mm, 블랙**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864405&vendorItemId=95289151827)
 
@@ -98,7 +98,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~129,900원~~ → **43,900원** (66% 할인)
 - 리뷰수: 297개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864405&vendorItemId=95289151827" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864405&vendorItemId=95289151827" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -115,7 +115,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~89,200원~~ → **52,960원** (40% 할인)
 - 리뷰수: 75개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9260035686&traceid=V0-153&itemId=27397360233&vendorItemId=94363091831" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9260035686&traceid=V0-153&itemId=27397360233&vendorItemId=94363091831" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -123,7 +123,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 와피크 통화가능 웨어러블 블루투스 스마트 워치 P5S 1.85,
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8485478080&traceid=V0-153&itemId=24558407306&vendorItemId=95336469696" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2026/04/29/11/3/d39c2e9a-9732-4618-a951-26feb800a5e2.jpg" alt="6위 - 와피크 통화가능 웨어러블 블루투스 스마트 워치 P5S 1.85, GPS + 블루투스, 4.7cm, 골드" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8485478080&traceid=V0-153&itemId=24558407306&vendorItemId=95336469696" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2026/04/29/11/3/d39c2e9a-9732-4618-a951-26feb800a5e2.jpg" alt="6위 - 와피크 통화가능 웨어러블 블루투스 스마트 워치 P5S 1.85, GPS + 블루투스, 4.7cm, 골드" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**와피크 통화가능 웨어러블 블루투스 스마트 워치 P5S 1.85, GPS + 블루투스, 4.7cm, 골드**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8485478080&traceid=V0-153&itemId=24558407306&vendorItemId=95336469696)
 
@@ -132,7 +132,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~37,900원~~ → **26,900원** (29% 할인)
 - 리뷰수: 5,793개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8485478080&traceid=V0-153&itemId=24558407306&vendorItemId=95336469696" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8485478080&traceid=V0-153&itemId=24558407306&vendorItemId=95336469696" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -140,7 +140,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903283&vendorItemId=93688516811" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/73be/a436df815820b412b0fa191fc283619f9a044d62ddaa3da6a5aeb074492c.jpg" alt="7위 - PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903283&vendorItemId=93688516811" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/73be/a436df815820b412b0fa191fc283619f9a044d62ddaa3da6a5aeb074492c.jpg" alt="7위 - PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4.9cm, 검정색**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903283&vendorItemId=93688516811)
 
@@ -149,7 +149,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~188,000원~~ → **32,600원** (82% 할인)
 - 리뷰수: 424개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903283&vendorItemId=93688516811" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903283&vendorItemId=93688516811" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -157,7 +157,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903280&vendorItemId=93688516813" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/6bee/31268f3d7a78ce10f069da5497a19032ceafaa9199667cdc78e03dc9ecc3.jpg" alt="8위 - PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903280&vendorItemId=93688516813" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/6bee/31268f3d7a78ce10f069da5497a19032ceafaa9199667cdc78e03dc9ecc3.jpg" alt="8위 - PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**PEJE 운동 건강 24시간 모니터링 블루투스 통화 스마트워치 ZW04 ZL73J, GPS + 블루투스, 4.9cm, 은색**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903280&vendorItemId=93688516813)
 
@@ -166,7 +166,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~188,000원~~ → **32,600원** (82% 할인)
 - 리뷰수: 424개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903280&vendorItemId=93688516813" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9091166404&traceid=V0-153&itemId=26716903280&vendorItemId=93688516813" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -174,7 +174,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — Donerton P97 블루투스 스마트워치 스마트밴드 통화 지원
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9165692071&traceid=V0-153&itemId=27005022750&vendorItemId=93973709044" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f18c/cd6a3a638d44d35051f7dccfc0ddd9f96b008a789bb74ac0026dace2e7af.jpg" alt="9위 - Donerton P97 블루투스 스마트워치 스마트밴드 통화 지원 한글판 스포츠워치, 4cm, 블랙" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9165692071&traceid=V0-153&itemId=27005022750&vendorItemId=93973709044" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f18c/cd6a3a638d44d35051f7dccfc0ddd9f96b008a789bb74ac0026dace2e7af.jpg" alt="9위 - Donerton P97 블루투스 스마트워치 스마트밴드 통화 지원 한글판 스포츠워치, 4cm, 블랙" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**Donerton P97 블루투스 스마트워치 스마트밴드 통화 지원 한글판 스포츠워치, 4cm, 블랙**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9165692071&traceid=V0-153&itemId=27005022750&vendorItemId=93973709044)
 
@@ -183,7 +183,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~30,680원~~ → **26,010원** (15% 할인)
 - 리뷰수: 73개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9165692071&traceid=V0-153&itemId=27005022750&vendorItemId=93973709044" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9165692071&traceid=V0-153&itemId=27005022750&vendorItemId=93973709044" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -191,7 +191,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864404&vendorItemId=95289151829" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/3d85/28b977152d03269584c7dc2e3017d1273fa54fd12699ac931152546baf45.jpg" alt="10위 - OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864404&vendorItemId=95289151829" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/3d85/28b977152d03269584c7dc2e3017d1273fa54fd12699ac931152546baf45.jpg" alt="10위 - OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**OGVIA 남자 스마트워치 블루투스 통화 AI 지원 1.9인치 대화면 최대 10일 사용 운동 건강관리 문자/앱 알림 손전등, 50mm, 실버**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864404&vendorItemId=95289151829)
 
@@ -200,7 +200,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~129,900원~~ → **43,900원** (66% 할인)
 - 리뷰수: 297개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864404&vendorItemId=95289151829" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9509250894&traceid=V0-153&itemId=28336864404&vendorItemId=95289151829" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 

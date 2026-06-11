@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9142/f7c63040d9ab6f54a03022f15bd92ed615e9e23f5fdf19523fbb1c570453.png"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **오즈모포켓4** 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다.
 
 > 오즈모포켓4는 소형 액션캠의 대표주자로, 뛰어난 영상 품질과 컴팩트한 디자인이 가장 큰 강점입니다. 안정적인 짐벌 시스템으로 어떤 상황에서도 부드러운 화면을 구현하며, 가벼워서 언제 어디서나 손쉽게 가지고 다닐 수 있습니다. 다양한 촬영 용도에 맞춘 패키지 구성도 소비자의 선택폭을 넓혀줍니다.
@@ -29,7 +29,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — DJI Osmo Pocket 4 에센셜 콤보 액션캠
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870774&traceid=V0-153&itemId=28104387805&vendorItemId=95527048381" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9142/f7c63040d9ab6f54a03022f15bd92ed615e9e23f5fdf19523fbb1c570453.png" alt="1위 - DJI Osmo Pocket 4 에센셜 콤보 액션캠" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870774&traceid=V0-153&itemId=28104387805&vendorItemId=95527048381" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9142/f7c63040d9ab6f54a03022f15bd92ed615e9e23f5fdf19523fbb1c570453.png" alt="1위 - DJI Osmo Pocket 4 에센셜 콤보 액션캠" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**DJI Osmo Pocket 4 에센셜 콤보 액션캠**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870774&traceid=V0-153&itemId=28104387805&vendorItemId=95527048381)
 
@@ -40,7 +40,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: DJI Osmo Pocket 4 에센셜 콤보는 공식 정품으로 기본에 충실한 구성입니다. 709,900원대의 합리적 가격으로 정품의 신뢰성과 안정성을 확보할 수 있으며, 기본 액세서리가 포함되어 있어 바로 촬영을 시작할 수 있습니다. 공식 제품의 높은 만족도를 기대할 수 있습니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870774&traceid=V0-153&itemId=28104387805&vendorItemId=95527048381" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870774&traceid=V0-153&itemId=28104387805&vendorItemId=95527048381" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -48,7 +48,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 고급형 + 셀카모드 포토토 빈티지 캠코더 충전형 레트로 Y2K
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8176821296&traceid=V0-153&itemId=23792129137&vendorItemId=91576703286" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/1f67/766403fa2c054a25c6b7fccb975dddd6c949245bed8f813790cc056e99c9.jpg" alt="2위 - 고급형 + 셀카모드 포토토 빈티지 캠코더 충전형 레트로 Y2K 캠코더, 핑크" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8176821296&traceid=V0-153&itemId=23792129137&vendorItemId=91576703286" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/1f67/766403fa2c054a25c6b7fccb975dddd6c949245bed8f813790cc056e99c9.jpg" alt="2위 - 고급형 + 셀카모드 포토토 빈티지 캠코더 충전형 레트로 Y2K 캠코더, 핑크" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**고급형 + 셀카모드 포토토 빈티지 캠코더 충전형 레트로 Y2K 캠코더, 핑크**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8176821296&traceid=V0-153&itemId=23792129137&vendorItemId=91576703286)
 
@@ -59,7 +59,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 2위 상품은 5만 원대 저가 옵션으로, 소비자들의 광범위한 선택을 반영하고 있습니다. 1,116개의 리뷰는 높은 인기도를 보여주며, 레트로 감성의 Y2K 캠코더로 특색 있는 촬영을 원하는 사용자에게 적합합니다. 가격 대비 실용성 높은 대안입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8176821296&traceid=V0-153&itemId=23792129137&vendorItemId=91576703286" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8176821296&traceid=V0-153&itemId=23792129137&vendorItemId=91576703286" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -67,7 +67,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — DJI Osmo Pocket 4 스탠더드 콤보 액션캠
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870768&traceid=V0-153&itemId=28104387786&vendorItemId=95488704930" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b4d2/05083b2369e2b953e95e54c41fe7361ef467edb07b8f91d441751772cf92.png" alt="3위 - DJI Osmo Pocket 4 스탠더드 콤보 액션캠" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870768&traceid=V0-153&itemId=28104387786&vendorItemId=95488704930" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b4d2/05083b2369e2b953e95e54c41fe7361ef467edb07b8f91d441751772cf92.png" alt="3위 - DJI Osmo Pocket 4 스탠더드 콤보 액션캠" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**DJI Osmo Pocket 4 스탠더드 콤보 액션캠**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870768&traceid=V0-153&itemId=28104387786&vendorItemId=95488704930)
 
@@ -78,7 +78,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: DJI Osmo Pocket 4 스탠더드 콤보는 더 풍부한 액세서리 구성으로 활용도를 높였습니다. 715,000원대의 합리적인 가격에 79개의 리뷰로 사용자 만족도를 검증받았으며, 다양한 촬영 환경에 대비할 수 있는 완성도 높은 구성이 장점입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870768&traceid=V0-153&itemId=28104387786&vendorItemId=95488704930" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870768&traceid=V0-153&itemId=28104387786&vendorItemId=95488704930" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -89,7 +89,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — DJI Osmo Pocket 4 크리에이터 콤보 액션캠
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870763&traceid=V0-153&itemId=28104387772&vendorItemId=95060458993" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/76449736532643-7915fec3-50e6-4496-bea5-7ca4d4e730e9.jpg" alt="4위 - DJI Osmo Pocket 4 크리에이터 콤보 액션캠" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870763&traceid=V0-153&itemId=28104387772&vendorItemId=95060458993" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/76449736532643-7915fec3-50e6-4496-bea5-7ca4d4e730e9.jpg" alt="4위 - DJI Osmo Pocket 4 크리에이터 콤보 액션캠" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**DJI Osmo Pocket 4 크리에이터 콤보 액션캠**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870763&traceid=V0-153&itemId=28104387772&vendorItemId=95060458993)
 
@@ -98,7 +98,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **835,000원**
 - 리뷰수: 180개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870763&traceid=V0-153&itemId=28104387772&vendorItemId=95060458993" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9447870763&traceid=V0-153&itemId=28104387772&vendorItemId=95060458993" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -106,7 +106,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — DJI Osmo 360 스탠더드 콤보
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8882483043&traceid=V0-153&itemId=25924255345&vendorItemId=92909690960" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/22748485510676-0285f6b9-2466-4b16-9f06-06d4f682cef6.jpg" alt="5위 - DJI Osmo 360 스탠더드 콤보" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8882483043&traceid=V0-153&itemId=25924255345&vendorItemId=92909690960" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/22748485510676-0285f6b9-2466-4b16-9f06-06d4f682cef6.jpg" alt="5위 - DJI Osmo 360 스탠더드 콤보" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**DJI Osmo 360 스탠더드 콤보**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8882483043&traceid=V0-153&itemId=25924255345&vendorItemId=92909690960)
 
@@ -115,7 +115,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~616,000원~~ → **540,070원** (12% 할인)
 - 리뷰수: 40개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8882483043&traceid=V0-153&itemId=25924255345&vendorItemId=92909690960" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8882483043&traceid=V0-153&itemId=25924255345&vendorItemId=92909690960" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -123,7 +123,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 인스타360 액션캠 Ace Pro, CINSAAJA/ACEPRO
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7801716511&traceid=V0-153&itemId=21131172297&vendorItemId=88192898231" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/67892656848143-86fa1de9-32e8-46e9-91fb-4ca205cc63b6.jpg" alt="6위 - 인스타360 액션캠 Ace Pro, CINSAAJA/ACEPRO001, 혼합색상" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7801716511&traceid=V0-153&itemId=21131172297&vendorItemId=88192898231" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/67892656848143-86fa1de9-32e8-46e9-91fb-4ca205cc63b6.jpg" alt="6위 - 인스타360 액션캠 Ace Pro, CINSAAJA/ACEPRO001, 혼합색상" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**인스타360 액션캠 Ace Pro, CINSAAJA/ACEPRO001, 혼합색상**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7801716511&traceid=V0-153&itemId=21131172297&vendorItemId=88192898231)
 
@@ -132,7 +132,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~401,000원~~ → **396,000원** (1% 할인)
 - 리뷰수: 151개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7801716511&traceid=V0-153&itemId=21131172297&vendorItemId=88192898231" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7801716511&traceid=V0-153&itemId=21131172297&vendorItemId=88192898231" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -140,7 +140,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — DJI Osmo Pocket 4 크리에이터 콤보 / 에센셜 콤보
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9507686761&traceid=V0-153&itemId=28330574814&vendorItemId=95488718789" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/64fb/9013d77dee8c836b1c32ca72af21583ad3289c1dc736a106947bb2f193a5.png" alt="7위 - DJI Osmo Pocket 4 크리에이터 콤보 / 에센셜 콤보, 포켓4 크리에이터 콤보" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9507686761&traceid=V0-153&itemId=28330574814&vendorItemId=95488718789" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/64fb/9013d77dee8c836b1c32ca72af21583ad3289c1dc736a106947bb2f193a5.png" alt="7위 - DJI Osmo Pocket 4 크리에이터 콤보 / 에센셜 콤보, 포켓4 크리에이터 콤보" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**DJI Osmo Pocket 4 크리에이터 콤보 / 에센셜 콤보, 포켓4 크리에이터 콤보**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9507686761&traceid=V0-153&itemId=28330574814&vendorItemId=95488718789)
 
@@ -149,7 +149,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **960,000원**
 - 리뷰수: 1개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9507686761&traceid=V0-153&itemId=28330574814&vendorItemId=95488718789" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9507686761&traceid=V0-153&itemId=28330574814&vendorItemId=95488718789" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -157,7 +157,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — (당일발송) 오즈모 포켓4 DJI 크리에이터 콤보 액션캠, 블랙
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9532491594&traceid=V0-153&itemId=28428632832&vendorItemId=95379535082" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/faaa/b3e450066854be8b95bc213f67f333e37feec899071161a1ba5066e86b67.png" alt="8위 - (당일발송) 오즈모 포켓4 DJI 크리에이터 콤보 액션캠, 블랙, Pocket 4 크리에이터 콤보" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9532491594&traceid=V0-153&itemId=28428632832&vendorItemId=95379535082" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/faaa/b3e450066854be8b95bc213f67f333e37feec899071161a1ba5066e86b67.png" alt="8위 - (당일발송) 오즈모 포켓4 DJI 크리에이터 콤보 액션캠, 블랙, Pocket 4 크리에이터 콤보" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**(당일발송) 오즈모 포켓4 DJI 크리에이터 콤보 액션캠, 블랙, Pocket 4 크리에이터 콤보**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9532491594&traceid=V0-153&itemId=28428632832&vendorItemId=95379535082)
 
@@ -165,7 +165,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: **958,350원**
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9532491594&traceid=V0-153&itemId=28428632832&vendorItemId=95379535082" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9532491594&traceid=V0-153&itemId=28428632832&vendorItemId=95379535082" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -173,7 +173,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 바디캠 4k WiFi 액션캠 유튜브 128GB/64GB 자전거
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9537936514&traceid=V0-153&itemId=28449088065&vendorItemId=95439154061" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcd7/8e0576151e01a0352c2502c731181493393fb9932e9ebaa354a9581e2eea.jpg" alt="9위 - 바디캠 4k WiFi 액션캠 유튜브 128GB/64GB 자전거 오토바이 블랙박스, 검은색, FS-64GB" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9537936514&traceid=V0-153&itemId=28449088065&vendorItemId=95439154061" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcd7/8e0576151e01a0352c2502c731181493393fb9932e9ebaa354a9581e2eea.jpg" alt="9위 - 바디캠 4k WiFi 액션캠 유튜브 128GB/64GB 자전거 오토바이 블랙박스, 검은색, FS-64GB" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**바디캠 4k WiFi 액션캠 유튜브 128GB/64GB 자전거 오토바이 블랙박스, 검은색, FS-64GB**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9537936514&traceid=V0-153&itemId=28449088065&vendorItemId=95439154061)
 
@@ -182,7 +182,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~170,000원~~ → **99,800원** (41% 할인)
 - 리뷰수: 11개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9537936514&traceid=V0-153&itemId=28449088065&vendorItemId=95439154061" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9537936514&traceid=V0-153&itemId=28449088065&vendorItemId=95439154061" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -190,7 +190,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — DJI 오즈모 포켓 3 크리에이터 콤보 액션캠, PP-101,
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7657895073&traceid=V0-153&itemId=20393535299&vendorItemId=87476209374" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/378812026676842-a14f9d1c-4e9e-47c6-bd71-f5dd463ef779.jpg" alt="10위 - DJI 오즈모 포켓 3 크리에이터 콤보 액션캠, PP-101, 딥블랙" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7657895073&traceid=V0-153&itemId=20393535299&vendorItemId=87476209374" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/378812026676842-a14f9d1c-4e9e-47c6-bd71-f5dd463ef779.jpg" alt="10위 - DJI 오즈모 포켓 3 크리에이터 콤보 액션캠, PP-101, 딥블랙" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**DJI 오즈모 포켓 3 크리에이터 콤보 액션캠, PP-101, 딥블랙**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7657895073&traceid=V0-153&itemId=20393535299&vendorItemId=87476209374)
 
@@ -199,7 +199,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~934,000원~~ → **680,400원** (27% 할인)
 - 리뷰수: 1,364개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7657895073&traceid=V0-153&itemId=20393535299&vendorItemId=87476209374" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7657895073&traceid=V0-153&itemId=20393535299&vendorItemId=87476209374" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 

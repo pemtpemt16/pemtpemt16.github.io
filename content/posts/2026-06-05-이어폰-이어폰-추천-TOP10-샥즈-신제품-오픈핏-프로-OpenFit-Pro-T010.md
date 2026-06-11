@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f527/34c572577c754baffcc85811136687c32d29bfcad0c758c27ff85708d632.jpg"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **이어폰** 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다.
 
 > 이어폰은 일상생활에서 음악과 통화를 즐기는 필수 아이템입니다. 가격대, 음질, 착용감 중 어떤 요소를 우선순위에 둘지에 따라 선택 기준이 달라집니다. 무선과 유선, 개방형과 밀폐형 등 다양한 형태의 제품들이 있으므로 자신의 사용 환경과 예산에 맞는 제품을 찾는 것이 중요합니다.
@@ -29,7 +29,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — 샥즈 신제품 오픈핏 프로 OpenFit Pro T010 블루투스
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9288778966&traceid=V0-153&itemId=27508459073&vendorItemId=94473429095" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f527/34c572577c754baffcc85811136687c32d29bfcad0c758c27ff85708d632.jpg" alt="1위 - 샥즈 신제품 오픈핏 프로 OpenFit Pro T010 블루투스 무선 이어폰, 블랙-BK" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9288778966&traceid=V0-153&itemId=27508459073&vendorItemId=94473429095" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f527/34c572577c754baffcc85811136687c32d29bfcad0c758c27ff85708d632.jpg" alt="1위 - 샥즈 신제품 오픈핏 프로 OpenFit Pro T010 블루투스 무선 이어폰, 블랙-BK" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**샥즈 신제품 오픈핏 프로 OpenFit Pro T010 블루투스 무선 이어폰, 블랙-BK**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9288778966&traceid=V0-153&itemId=27508459073&vendorItemId=94473429095)
 
@@ -40,7 +40,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 샥즈 오픈핏 프로 T010은 최신 무선 이어폰으로 혁신적인 오픈핏 설계가 특징입니다. 안정적인 착용감과 우수한 음질을 제공하며, 신제품 프리미엄 가격도 충분히 만족할 만한 고급 기능과 성능을 담고 있습니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9288778966&traceid=V0-153&itemId=27508459073&vendorItemId=94473429095" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9288778966&traceid=V0-153&itemId=27508459073&vendorItemId=94473429095" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -48,7 +48,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 삼성 AKG 이어폰 정품 갤럭시 S8 S9 S10 노트8 노트9
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=6922582499&traceid=V0-153&itemId=16722446340&vendorItemId=91718436026" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/5aa2/0fe9e96f80101297d92c3f94b6ea886d3342544858a60c615d55a998a191.jpg" alt="2위 - 삼성 AKG 이어폰 정품 갤럭시 S8 S9 S10 노트8 노트9 귀안아픈 커널형 유선이어폰 분실방지 파우치증" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=6922582499&traceid=V0-153&itemId=16722446340&vendorItemId=91718436026" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/5aa2/0fe9e96f80101297d92c3f94b6ea886d3342544858a60c615d55a998a191.jpg" alt="2위 - 삼성 AKG 이어폰 정품 갤럭시 S8 S9 S10 노트8 노트9 귀안아픈 커널형 유선이어폰 분실방지 파우치증" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**삼성 AKG 이어폰 정품 갤럭시 S8 S9 S10 노트8 노트9 귀안아픈 커널형 유선이어폰 분실방지 파우치증정, 티탄그레이, AKG 3.5단자**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=6922582499&traceid=V0-153&itemId=16722446340&vendorItemId=91718436026)
 
@@ -59,7 +59,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 삼성 AKG 이어폰은 공식 정품으로 주요 갤럭시 기기와의 완벽한 호환성을 자랑합니다. 저렴한 가격대에도 안정적인 음질을 보장하며, 2890개의 높은 리뷰 수는 다수의 사용자가 만족도를 인증한 신뢰할 수 있는 선택입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=6922582499&traceid=V0-153&itemId=16722446340&vendorItemId=91718436026" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=6922582499&traceid=V0-153&itemId=16722446340&vendorItemId=91718436026" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -67,7 +67,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — 아이리버 3.5mm AUX 갤럭시 노트북 컴퓨터 알루미늄 커널형
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8602654934&traceid=V0-153&itemId=24944896878&vendorItemId=91980127301" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2025/02/21/14/6/b5d28929-5639-41e4-aed9-9afc5bc316ee.jpg" alt="3위 - 아이리버 3.5mm AUX 갤럭시 노트북 컴퓨터 알루미늄 커널형 유선 이어폰 BHC-70M 블랙" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8602654934&traceid=V0-153&itemId=24944896878&vendorItemId=91980127301" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2025/02/21/14/6/b5d28929-5639-41e4-aed9-9afc5bc316ee.jpg" alt="3위 - 아이리버 3.5mm AUX 갤럭시 노트북 컴퓨터 알루미늄 커널형 유선 이어폰 BHC-70M 블랙" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**아이리버 3.5mm AUX 갤럭시 노트북 컴퓨터 알루미늄 커널형 유선 이어폰 BHC-70M 블랙**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8602654934&traceid=V0-153&itemId=24944896878&vendorItemId=91980127301)
 
@@ -78,7 +78,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 아이리버 유선 이어폰은 합리적인 가격으로 편의성과 실용성을 모두 갖춘 제품입니다. 3.5mm 표준 규격으로 대부분의 기기와 호환되며, 알루미늄 커널형 설계로 내구성이 우수합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8602654934&traceid=V0-153&itemId=24944896878&vendorItemId=91980127301" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8602654934&traceid=V0-153&itemId=24944896878&vendorItemId=91980127301" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -89,7 +89,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — Apple USB-C 커넥터 EarPods, MYQY3ZP/A,
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8300107736&traceid=V0-153&itemId=25246423475&vendorItemId=90965273088" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/f4ad/0b8783dc665eaa6b7088efd8152d14d08f51878a3a5bb80b1eb67a60a775.jpg" alt="4위 - Apple USB-C 커넥터 EarPods, MYQY3ZP/A, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8300107736&traceid=V0-153&itemId=25246423475&vendorItemId=90965273088" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/f4ad/0b8783dc665eaa6b7088efd8152d14d08f51878a3a5bb80b1eb67a60a775.jpg" alt="4위 - Apple USB-C 커넥터 EarPods, MYQY3ZP/A, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**Apple USB-C 커넥터 EarPods, MYQY3ZP/A, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8300107736&traceid=V0-153&itemId=25246423475&vendorItemId=90965273088)
 
@@ -98,7 +98,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~28,000원~~ → **26,600원** (5% 할인)
 - 리뷰수: 11,824개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8300107736&traceid=V0-153&itemId=25246423475&vendorItemId=90965273088" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8300107736&traceid=V0-153&itemId=25246423475&vendorItemId=90965273088" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -106,7 +106,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — 넥밴드형 블루투스 이어폰 노이즈캔슬링, white, A13(wh
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7909948821&traceid=V0-153&itemId=21701557900&vendorItemId=90474216777" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/d4f2/218277d91edb1f2a517e98bbcb49cfc80b37084da591da21e8279fbb4376.png" alt="5위 - 넥밴드형 블루투스 이어폰 노이즈캔슬링, white, A13(white)" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7909948821&traceid=V0-153&itemId=21701557900&vendorItemId=90474216777" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/d4f2/218277d91edb1f2a517e98bbcb49cfc80b37084da591da21e8279fbb4376.png" alt="5위 - 넥밴드형 블루투스 이어폰 노이즈캔슬링, white, A13(white)" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**넥밴드형 블루투스 이어폰 노이즈캔슬링, white, A13(white)**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7909948821&traceid=V0-153&itemId=21701557900&vendorItemId=90474216777)
 
@@ -115,7 +115,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~500,000원~~ → **25,560원** (94% 할인)
 - 리뷰수: 150개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7909948821&traceid=V0-153&itemId=21701557900&vendorItemId=90474216777" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7909948821&traceid=V0-153&itemId=21701557900&vendorItemId=90474216777" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -123,7 +123,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 샥즈 신제품 쿠팡단독세트 샥즈 오픈닷 원 OpenDots ONE
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9225685342&traceid=V0-153&itemId=25314415190&vendorItemId=92309457751" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/e8b1f700-aafe-4bd4-9b9e-a122d34112b7_fixing_v2.png" alt="6위 - 샥즈 신제품 쿠팡단독세트 샥즈 오픈닷 원 OpenDots ONE E310 블루투스 무선 이어폰, 그레이" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9225685342&traceid=V0-153&itemId=25314415190&vendorItemId=92309457751" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/e8b1f700-aafe-4bd4-9b9e-a122d34112b7_fixing_v2.png" alt="6위 - 샥즈 신제품 쿠팡단독세트 샥즈 오픈닷 원 OpenDots ONE E310 블루투스 무선 이어폰, 그레이" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**샥즈 신제품 쿠팡단독세트 샥즈 오픈닷 원 OpenDots ONE E310 블루투스 무선 이어폰, 그레이**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9225685342&traceid=V0-153&itemId=25314415190&vendorItemId=92309457751)
 
@@ -132,7 +132,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~289,000원~~ → **274,550원** (5% 할인)
 - 리뷰수: 414개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9225685342&traceid=V0-153&itemId=25314415190&vendorItemId=92309457751" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9225685342&traceid=V0-153&itemId=25314415190&vendorItemId=92309457751" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -140,7 +140,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — 필립스 무선 ENC노이즈캔슬링 블루투스 이어폰, TAT1109,
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8498887873&traceid=V0-153&itemId=24600675528&vendorItemId=91612183770" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f39b/d95e3c4b7abd45339f82293e8360e23050160d3ebee6ef5723b9b552f293.jpg" alt="7위 - 필립스 무선 ENC노이즈캔슬링 블루투스 이어폰, TAT1109, 화이트" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8498887873&traceid=V0-153&itemId=24600675528&vendorItemId=91612183770" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f39b/d95e3c4b7abd45339f82293e8360e23050160d3ebee6ef5723b9b552f293.jpg" alt="7위 - 필립스 무선 ENC노이즈캔슬링 블루투스 이어폰, TAT1109, 화이트" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**필립스 무선 ENC노이즈캔슬링 블루투스 이어폰, TAT1109, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8498887873&traceid=V0-153&itemId=24600675528&vendorItemId=91612183770)
 
@@ -149,7 +149,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~99,000원~~ → **19,900원** (79% 할인)
 - 리뷰수: 7,925개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8498887873&traceid=V0-153&itemId=24600675528&vendorItemId=91612183770" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8498887873&traceid=V0-153&itemId=24600675528&vendorItemId=91612183770" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -157,7 +157,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — KONLI 노이즈 캔슬링 커널형 무선 블루투스 이어폰 방수, B
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082654809&traceid=V0-153&itemId=22798183173&vendorItemId=95087444183" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/8428/fde3b7380c684a8e88b510ec5d1faf654ecea2ed3cd06db342b025852d3f.jpg" alt="8위 - KONLI 노이즈 캔슬링 커널형 무선 블루투스 이어폰 방수, Black, T12" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082654809&traceid=V0-153&itemId=22798183173&vendorItemId=95087444183" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/8428/fde3b7380c684a8e88b510ec5d1faf654ecea2ed3cd06db342b025852d3f.jpg" alt="8위 - KONLI 노이즈 캔슬링 커널형 무선 블루투스 이어폰 방수, Black, T12" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**KONLI 노이즈 캔슬링 커널형 무선 블루투스 이어폰 방수, Black, T12**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082654809&traceid=V0-153&itemId=22798183173&vendorItemId=95087444183)
 
@@ -166,7 +166,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~91,000원~~ → **15,900원** (82% 할인)
 - 리뷰수: 24,468개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082654809&traceid=V0-153&itemId=22798183173&vendorItemId=95087444183" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082654809&traceid=V0-153&itemId=22798183173&vendorItemId=95087444183" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -174,7 +174,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 샥즈 신제품 쿠팡단독세트 샥즈 오픈핏 2+ OpenFit 2+
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8771741172&traceid=V0-153&itemId=25515797319&vendorItemId=92507720978" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcaa/aeff38e1782a17564432d2cbe3a7c436951d687dbcd15784d58c19b6031f.png" alt="9위 - 샥즈 신제품 쿠팡단독세트 샥즈 오픈핏 2+ OpenFit 2+ T921 블루투스 무선 이어폰, T921 GY" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8771741172&traceid=V0-153&itemId=25515797319&vendorItemId=92507720978" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcaa/aeff38e1782a17564432d2cbe3a7c436951d687dbcd15784d58c19b6031f.png" alt="9위 - 샥즈 신제품 쿠팡단독세트 샥즈 오픈핏 2+ OpenFit 2+ T921 블루투스 무선 이어폰, T921 GY" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**샥즈 신제품 쿠팡단독세트 샥즈 오픈핏 2+ OpenFit 2+ T921 블루투스 무선 이어폰, T921 GY, T921-그레이GY**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8771741172&traceid=V0-153&itemId=25515797319&vendorItemId=92507720978)
 
@@ -183,7 +183,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~289,000원~~ → **274,550원** (5% 할인)
 - 리뷰수: 620개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8771741172&traceid=V0-153&itemId=25515797319&vendorItemId=92507720978" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8771741172&traceid=V0-153&itemId=25515797319&vendorItemId=92507720978" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -191,7 +191,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — Apple 정품 3.5mm 해드폰 플러그 이어팟, MWU53FE
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8230314775&traceid=V0-153&itemId=23686271495&vendorItemId=90711442671" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/9ce2/e32a1d1b7824cfba240cd15b26482f0652adf3b2f4cb8ed8aaa459c9fed8.jpg" alt="10위 - Apple 정품 3.5mm 해드폰 플러그 이어팟, MWU53FE/A" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8230314775&traceid=V0-153&itemId=23686271495&vendorItemId=90711442671" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/9ce2/e32a1d1b7824cfba240cd15b26482f0652adf3b2f4cb8ed8aaa459c9fed8.jpg" alt="10위 - Apple 정품 3.5mm 해드폰 플러그 이어팟, MWU53FE/A" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**Apple 정품 3.5mm 해드폰 플러그 이어팟, MWU53FE/A**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8230314775&traceid=V0-153&itemId=23686271495&vendorItemId=90711442671)
 
@@ -200,7 +200,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~28,000원~~ → **26,600원** (5% 할인)
 - 리뷰수: 1,431개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8230314775&traceid=V0-153&itemId=23686271495&vendorItemId=90711442671" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8230314775&traceid=V0-153&itemId=23686271495&vendorItemId=90711442671" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
