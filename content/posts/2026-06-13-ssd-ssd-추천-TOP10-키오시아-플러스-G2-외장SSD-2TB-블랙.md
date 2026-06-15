@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "ssd"]
 keywords: ["ssd", "Top10", "shopping"]
 author: "pemtpemt16"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "ssd 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: 키오시아 플러스 G2 외장SSD, 2TB, 블랙 가격대: 398,900원 · 67,250원 · 291,600원 위 — 키오시아 플러스 G2 외장SSD,…"
+summary: "ssd 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: 키오시아 플러스 G2 외장SSD, 2TB, 블랙 가격대: 398,900원 · 67,250원 · 291,600원 위 — 키오시아 플러스 G2 외장SSD,…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/10846442302252-11908ad8-7c0f-4e09-907f-19b09eef1d23.png"
   alt: "ssd 추천 TOP10 — 키오시아 플러스 G2 외장SSD, 2TB, 블랙"

@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "게이밍노트북"]
 keywords: ["게이밍노트북", "Top10", "shopping"]
 author: "pemtpemt16"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "게이밍노트북 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 📌 핵심 요약 추천 1위: ThundeRobot 썬더로봇 RZ16 인텔 14세대 코어 i7-1470 가격대: 2,499,000원 · 189,000원 · 70,000원 위 —…"
+summary: "게이밍노트북 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 📌 핵심 요약 추천 1위: ThundeRobot 썬더로봇 RZ16 인텔 14세대 코어 i7-1470 가격대: 2,499,000원 · 189,000원 · 70,000원 위 —…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c861/00bd7decfbba0ae50d87d85eec09b25b9ce965dfa82df09285a209ede721.jpg"
   alt: "게이밍노트북 추천 TOP10 — ThundeRobot 썬더로봇 RZ16 인텔 14세대"

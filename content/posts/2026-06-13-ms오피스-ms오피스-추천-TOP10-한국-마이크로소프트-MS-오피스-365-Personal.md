@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "ms오피스"]
 keywords: ["ms오피스", "Top10", "shopping"]
 author: "pemtpemt16"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "ms오피스 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: 한국 마이크로소프트 MS 오피스 365 Personal PKC 1년 제품 가격대: 99,000원 · 116,840원 · 69,000원 위 — 한국…"
+summary: "ms오피스 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: 한국 마이크로소프트 MS 오피스 365 Personal PKC 1년 제품 가격대: 99,000원 · 116,840원 · 69,000원 위 — 한국…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f293/2d2e7a97167e48c0cc4d853fa4439ceb30a135767ff52dca2a07751e5d1f.png"
   alt: "ms오피스 추천 TOP10 — 한국 마이크로소프트 MS 오피스 365 Personal"
