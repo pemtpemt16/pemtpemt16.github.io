@@ -8,6 +8,9 @@ keywords: ["IT/가전", "IT", "가전", "디지털", "테크", "뉴스"]
 author: "pemtpemt16"
 description: "특허 AI 솔루션 기업 워트인텔리전스(대표이사 윤정호)가 AI로 화학식을 인식해 특허를 검색하는 신기능 'keywert Chemistry'를 공식 론칭했다. 화학ㆍ소재 분야 특허만큼은 AI 검색으로도 유독 까다로운 영역으로 꼽혀왔다. 그 안에 담긴 구조식은 텍스트…"
 summary: "특허 AI 솔루션 기업 워트인텔리전스(대표이사 윤정호)가 AI로 화학식을 인식해 특허를 검색하는 신기능 'keywert Chemistry'를 공식 론칭했다. 화학ㆍ소재 분야 특허만큼은 AI 검색으로도 유독 까다로운 영역으로 꼽혀왔다. 그 안에 담긴 구조식은 텍스트…"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 ## 주요 내용

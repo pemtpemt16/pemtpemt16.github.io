@@ -8,6 +8,9 @@ keywords: ["IT/가전", "IT", "가전", "디지털", "테크", "뉴스"]
 author: "pemtpemt16"
 description: "주요 내용 비투비 이민혁(HUTA)이 강렬한 매력을 입었다. 비투비컴퍼니는 최근 공식 SNS에 이민혁의 새 싱글 'TEMPERATURE' 두 번째 콘셉트 포토 'Spicy' 버전을 선보였다. 이민혁은 붉은빛 조명 아래 날카로운 눈빛과 이민혁님의 강렬한 붉은빛 콘셉트…"
 summary: "주요 내용 비투비 이민혁(HUTA)이 강렬한 매력을 입었다. 비투비컴퍼니는 최근 공식 SNS에 이민혁의 새 싱글 'TEMPERATURE' 두 번째 콘셉트 포토 'Spicy' 버전을 선보였다. 이민혁은 붉은빛 조명 아래 날카로운 눈빛과 이민혁님의 강렬한 붉은빛 콘셉트…"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 ## 주요 내용
